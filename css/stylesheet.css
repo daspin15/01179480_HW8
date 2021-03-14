@@ -5,7 +5,13 @@ img {padding: 18px;
     margin: 50px;
 }
 
+table, th, td {
+    border: 1px solid black;
+}
 
+th, td {
+    padding: 15px;
+}
 
 a:link {text-decoration: none; color: black;}
 a:hover{text-decoration: underline; color: black;}
