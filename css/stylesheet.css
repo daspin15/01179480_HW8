@@ -13,5 +13,9 @@ th, td {
     padding: 15px;
 }
 
+.schedColor {
+    color: green;
+}
+
 a:link {text-decoration: none; color: black;}
 a:hover{text-decoration: underline; color: black;}
