@@ -19,3 +19,11 @@ th, td {
 
 a:link {text-decoration: none; color: black;}
 a:hover{text-decoration: underline; color: black;}
+
+ol {
+    list-style-position: inside;
+    display: inline-block;
+    border: 1px solid #000;
+    padding: 20px;
+    background-color: darkseagreen;
+}
